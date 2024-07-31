@@ -1,10 +1,10 @@
 import { View, Text } from "react-native";
 import React from "react";
 
-export default function FeedScreen() {
+export default function CreatePost() {
   return (
     <View>
-      <Text> Feed </Text>
+      <Text> Create Post </Text>
     </View>
   );
 }
